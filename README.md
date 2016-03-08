@@ -1,7 +1,7 @@
 Programa feito em Java por Vinicius Vale 07/03/2016
 
 Blog: www.viniciusvale.com <br/> 
-Empresa: www.valeconsultoria.com <br />
+Empresa: www.valeconsultoriati.com <br />
 Linkedin: linkedin.com/in/aquinovale
 
 # Execução
